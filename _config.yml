@@ -17,7 +17,7 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: https://www.zhihu.com/people/wuhuqinlang
+  zhihu: wuhuqinlang
   email: Priority_Deque@outlook.com
   # facebook:
   github: qlqaq
