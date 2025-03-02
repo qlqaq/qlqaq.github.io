@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "qlqaq's blog"
+description: "秦朗の的个人小窝"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://cdn.luogu.com.cn/upload/image_hosting/mo8lx8xa.png
+favicon: https://cdn.luogu.com.cn/upload/image_hosting/mo8lx8xa.png
 
 navigation:
   - name: 首页
@@ -17,17 +17,17 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: xiongyunhan@outlook.com
-  facebook:
-  github: pianfan
+  zhihu: https://www.zhihu.com/people/wuhuqinlang
+  email: Priority_Deque@outlook.com
+  # facebook:
+  github: qlqaq
   rss: # just type anything here for a working RSS icon
-  twitter: 
-  youtube:
+  # twitter: 
+  # youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 qlqaq
 
-url: https://pianfan.github.io
+url: https://qlqaq.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
